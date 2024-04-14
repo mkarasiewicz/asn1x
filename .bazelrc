@@ -1,0 +1,4 @@
+build --cxxopt=-std=c++26
+build --cxxopt=-Wall
+build --cxxopt=-Werror
+build --cxxopt=-Wextra
